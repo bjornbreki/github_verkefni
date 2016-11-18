@@ -6,14 +6,14 @@ body {
 }
 .sumar h1 {
 	font-size: 5em;
-	color: #eeeeff;
+	color: yellow;
 }
 
 .vetur {
 
 	/*Settu eigin stíla hér fyrir vetur litaþema*/
 
-   	background: linear-gradient(to top left, blue, white); /* Standard syntax (must be last) */
+   	background: linear-gradient(to top left, yellow, white); /* Standard syntax (must be last) */
 	position: fixed;
 	width: 100%;
 	height: 100%;
@@ -27,5 +27,5 @@ body {
 }
 .vetur h1 {
 	font-size: 5em;
-	color: #ffa;
+	color: blue;
 }
